@@ -1,15 +1,22 @@
 # main links links
 main:
   - title: "About me"
+    url: /about/
   
   - title: "Activity"
+    url: /about/
   
   - title: "Publication"
+    url: /about/
   
   - title: "Education"
+    url: /about/
   
   - title: "Collaboration"
+    url: /about/
   
   - title: "Honors"
+    url: /about/
   
   - title: "Other"
+    url: /about/
