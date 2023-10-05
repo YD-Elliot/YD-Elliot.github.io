@@ -11,9 +11,7 @@ redirect_from:
 **👨‍🎓 About me**
 ------
 Hi！
-It is Yunda SHi, a Master's Degree
-
-A Master's Degree holder who majors in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Possess a good reserve of basic knowledge of research area and perform in-depth scientific research and exploration. Concern about the cutting-edge development of technology in this area and think about practical implementation and application.
+It is Yunda SHi, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST).
 
 
 **⭐️ Activity**
@@ -25,7 +23,7 @@ A Master's Degree holder who majors in Computer Vision and Deep Learning, specif
 
 **📝 Publication**
 ------
-* <font size=3 face="Kannada MN">Yunda Shi, Jianming Hu and Li Li, "PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation," 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023). [paper](https://ieeexplore.ieee.org/abstract/document/10105781).</font>
+* <font size=3 face="Optima">Yunda Shi, Jianming Hu and Li Li, "PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation," 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023). [paper](https://ieeexplore.ieee.org/abstract/document/10105781).</font>
 * Yunda Shi, Jianming Hu and Yi Zhang, "Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation," 2023 3rd International Conference on Neural Networks, Information and Communication Engineering (NNICE), Guangzhou, China, 2023, pp. 596-601, [doi: 10.1109/NNICE58320.2023.10105756](https://ieeexplore.ieee.org/abstract/document/10105756).
 
 **🎓 Education**
