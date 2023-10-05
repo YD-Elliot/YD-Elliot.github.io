@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8>
-    <style>
-        body{
-          font-family: Optima
-        }
-    </style>
-  </head>
-      
+<head>
+  <meta charset="utf-8>
+  <style>
+      body{
+        font-family: Optima
+      }
+  </style>
+</head>
+
+<body>
 ---
 permalink: /
 title: "YUNDA SHI"
@@ -55,10 +56,16 @@ redirect_from:
 * [2023] Tsinghua
 * [2017] ECUST
 
-</html>
 
 
 **🔋 Other**
 ------
 Community Involvement
+
+
+
+
+
+</body>
+</html>
 
