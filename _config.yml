@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yunda SHI | 石运达"
   avatar           : "yd_shi.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Shenzhen, CHN"
+  bio              : "Master's Degree of Electronic Information from Tsinghua University \n Focus on Deep Learning, Computer Vision and Autonomous Driving"
+  location         : "Beijing, CHN"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com.hk/citations?user=AUxALTwAAAAJ&hl=zh-CN"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YD-Elliot"
+  github           : "https://github.com/YD-Elliot?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
