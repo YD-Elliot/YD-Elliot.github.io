@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Yunda SHI | 石运达"
   avatar           : "yd_shi.png"
-  bio              : "Master's Degree of Electronic Information from Tsinghua University \n Focus on Deep Learning, Computer Vision and Autonomous Driving"
+  bio              : "Master's Degree of Electronic Information from Tsinghua University. 
+                      Focus on Deep Learning, Computer Vision and Autonomous Driving"
   location         : "Beijing, CHN"
   employer         :
   pubmed           : ""
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YD-Elliot?tab=repositories"
+  github           : "YD-Elliot"
   google_plus      :
   keybase          :
   instagram        :
