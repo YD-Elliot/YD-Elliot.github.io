@@ -6,8 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-font-family: Optima
-font-size: 16pt
+font-family: Times New Roman
+font-size: 12pt
 ---
 
 
