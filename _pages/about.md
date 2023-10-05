@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Personal Profile"
 excerpt: "Personal Profile"
 author_profile: true
