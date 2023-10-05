@@ -10,15 +10,16 @@ redirect_from:
 
 **👨‍🎓 About me**
 ------
-Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li and Jianming Hu. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST).
+<font size=3 face="Optima"> Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li and Jianming Hu. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST). </font>
 
 
 **⭐️ Activity**
 ------
-* [_2023.01_] 
-* [_2023.01_]
+* [_<font size=3 face="Optima">2023.01</font>_]
+* [<font size=3 face="Optima">_2023.01_</font>]
 * [_2022.12_]
 * [_2022.10_]
+
 
 **📝 Publication**
 ------
