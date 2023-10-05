@@ -6,7 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-font: 10px Optima
+font-family: Optima
+font-size: 10pt
 ---
 
 
