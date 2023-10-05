@@ -15,16 +15,17 @@ redirect_from:
 
 **⭐️ Activity**
 ------
-* [_<font size=3 face="Optima">2023.01</font>_]
-* [<font size=3 face="Optima">_2023.01_</font>]
-* [_2022.12_]
-* [_2022.10_]
+* <font size=3 face="Optima">[*2023.01*]</font>
+* <font size=3 face="Optima">[*2023.01*]</font>
+* <font size=3 face="Optima">[*2023.01*]</font>
+* <font size=3 face="Optima">[*2023.01*]</font>
 
 
 **📝 Publication**
 ------
-* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation. _2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)_. </font> [<font size=3 face="Optima">[paper]</font>](https://ieeexplore.ieee.org/abstract/document/10105781)
-* <font size=3 face="Optima">  Yunda Shi, Jianming Hu and Yi Zhang. Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation. _2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)_. </font>[<font size=3 face="Optima">[paper]</font>](https://ieeexplore.ieee.org/abstract/document/10105756)
+* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation. *2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)*. [paper](https://ieeexplore.ieee.org/abstract/document/10105781) </font>
+
+* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Yi Zhang. Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation. *2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)*. </font>[<font size=3 face="Optima">[paper]</font>](https://ieeexplore.ieee.org/abstract/document/10105756)
 
 **🎓 Education**
 ------
