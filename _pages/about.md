@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 ---
 permalink: /
 title: "YUNDA SHI"
@@ -8,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="utf-8>
