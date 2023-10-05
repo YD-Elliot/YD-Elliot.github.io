@@ -11,7 +11,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "YUNDA SHI"
 description              : &description "personal description"
-url                      : https://yd-elliot.github.io "
+url                      : https://yd-elliot.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YD-Elliot/YD-Elliot.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
