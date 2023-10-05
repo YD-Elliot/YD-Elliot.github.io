@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "YUNDA SHI"
+author_profile: true
+---
+
 **👨‍🎓 About me**
 ------
 
