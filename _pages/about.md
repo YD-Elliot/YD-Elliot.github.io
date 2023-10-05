@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Profile"
+title: "YUNDA SHI"
 excerpt: "Personal Profile"
 author_profile: true
 redirect_from: 
