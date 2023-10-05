@@ -10,9 +10,7 @@ redirect_from:
 
 **👨‍🎓 About me**
 ------
-Hi！
-
-It is Yunda SHi, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST).
+Hi！It is Yunda SHi, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST).
 
 
 **⭐️ Activity**
@@ -24,8 +22,12 @@ It is Yunda SHi, obtained the Master's Degree of Electronic Information from Dep
 
 **📝 Publication**
 ------
-* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Li Li. [PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/10105781). 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023). </font>
-* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Yi Zhang, "Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation," 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023). [paper](https://ieeexplore.ieee.org/abstract/document/10105756). </font>
+* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation.
+  _2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)_. </font>
+  [<font size=3 face="Optima">paper</font>](https://ieeexplore.ieee.org/abstract/document/10105781)
+* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Yi Zhang. Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation.
+  _2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)_. </font>
+  [<font size=3 face="Optima">paper</font>](https://ieeexplore.ieee.org/abstract/document/10105756) </font>
 
 **🎓 Education**
 ------
