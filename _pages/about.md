@@ -21,7 +21,7 @@ Self-Introduction
 
 **📝 Publication**
 ------
-* <font face="Lucida Fax"> Yunda Shi, Jianming Hu and Li Li, "PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation," 2023 3rd International Conference on Neural Networks, Information and Communication Engineering (NNICE), Guangzhou, China, 2023, pp. 184-189, [doi: 10.1109/NNICE58320.2023.10105781](https://ieeexplore.ieee.org/abstract/document/10105781). </font>
+* <font face="Optima"> Yunda Shi, Jianming Hu and Li Li, "PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation," 2023 3rd International Conference on Neural Networks, Information and Communication Engineering (NNICE), Guangzhou, China, 2023, pp. 184-189, [doi: 10.1109/NNICE58320.2023.10105781](https://ieeexplore.ieee.org/abstract/document/10105781). </font>
 * Yunda Shi, Jianming Hu and Yi Zhang, "Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation," 2023 3rd International Conference on Neural Networks, Information and Communication Engineering (NNICE), Guangzhou, China, 2023, pp. 596-601, [doi: 10.1109/NNICE58320.2023.10105756](https://ieeexplore.ieee.org/abstract/document/10105756).
 
 **🎓 Education**
