@@ -15,23 +15,23 @@ redirect_from:
 
 **⭐️ Activity**
 ------
-* <font size=3 face="Optima">[*2023.01*]
-* <font size=3 face="Optima">[*2023.01*]
-* <font size=3 face="Optima">[*2023.01*]
-* <font size=3 face="Optima">[*2023.01*]
+* <font size=3 face="Optima">[2023.01]</font>
+* <font size=3 face="Optima">[2023.01]</font>
+* <font size=3 face="Optima">[2023.01]</font>
+* <font size=3 face="Optima">[2023.01]</font>
 
 
 **📝 Publication**
 ------
-* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation. *2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)*. [paper](https://ieeexplore.ieee.org/abstract/document/10105781) </font>
+* <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation. 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023). [paper](https://ieeexplore.ieee.org/abstract/document/10105781) </font>
 
 * <font size=3 face="Optima"> Yunda Shi, Jianming Hu and Yi Zhang. Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation. *2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)*. </font>[<font size=3 face="Optima">[paper]</font>](https://ieeexplore.ieee.org/abstract/document/10105756)
 
 **🎓 Education**
 ------
-<font size=3 face="Optima"> * 2020.08 - 2023.07, Master, Department of Automation, Tsingahua University, Beijing, China
-* 2015.08 - 2019.07, Undergraduate, Department of Automation, East China University of Science and Technology, Shanghai, China
-* 2012.08 - 2015.07, No.2 High School of Fushun, Liaoning, China </font>
+* <font size=3 face="Optima"> 2020.08 - 2023.07, Master, Department of Automation, Tsingahua University, Beijing, China
+* <font size=3 face="Optima"> 2015.08 - 2019.07, Undergraduate, Department of Automation, East China University of Science and Technology, Shanghai, China
+* <font size=3 face="Optima"> 2012.08 - 2015.07, No.2 High School of Fushun, Liaoning, China
 
 **🖥️ Collaboration**
 ------
