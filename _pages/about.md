@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 font-family: Optima
-font-size: 10pt
+font-size: 16pt
 ---
 
 
