@@ -3,19 +3,19 @@ main:
   - title: "About me"
     url: /about/
   
-  - title: "Activity"
+  - title: "Activities"
     url: /about/
   
-  - title: "Publication"
+  - title: "Publications"
     url: /about/
   
-  - title: "Education"
+  - title: "Educations"
     url: /about/
   
-  - title: "Collaboration"
+  - title: "Collaborations"
     url: /about/
   
-  - title: "Honors"
+  - title: "Honors and Awards"
     url: /about/
   
   - title: "Other"
