@@ -29,11 +29,11 @@ Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information fro
 
 **<font size=5 face='Optima'> Conference Proceeding </font>**
 
-* <font size=3 face='Optima'> Yunda Shi, Jianming Hu and Li Li.</font> \
+* <font size=3 face='Optima'> **Yunda Shi**, Jianming Hu and Li Li.</font>
 [<font size=3 face='Optima'> PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation.</font>](https://ieeexplore.ieee.org/abstract/document/10105781) \
 _<font size=3 face='Optima'> 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023) </font>_.
 
-* <font size=3 face='Optima'> Yunda Shi, Jianming Hu and Yi Zhang.</font> \
+* <font size=3 face='Optima'> Yunda Shi, Jianming Hu and Yi Zhang.</font>
 [<font size=3 face='Optima'> Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation.</font>](https://ieeexplore.ieee.org/abstract/document/10105756) \
 _<font size=3 face='Optima'> 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023) </font>_.
 
