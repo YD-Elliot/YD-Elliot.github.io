@@ -7,20 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <style type="text/css">
-    body{
-      font-family: Optima
-      font-size: 12pt
-    }
-  </style>
-</head>
-  
-<body>
   
 **👨‍🎓 About me**
 ------
@@ -64,6 +50,3 @@ Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information fro
 **🔋 Other**
 ------
 Community Involvement
-
-  </body>
-</html>
