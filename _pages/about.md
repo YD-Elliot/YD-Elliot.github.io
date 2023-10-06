@@ -17,16 +17,17 @@ Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information fro
 
 **⭐️ Activity**
 ------
-* <font size=3 face='Optima'> [2023.01]
-* [2023.01]
-* [2023.01]
-* [2023.01]
-</font>
+* <font size=3 face='Optima'> [2023.01]</font>
+* <font size=3 face='Optima'> [2023.01]</font>
+* <font size=3 face='Optima'> [2023.01]</font>
+* <font size=3 face='Optima'> [2023.01]</font>
 
 
 **📝 Publication**
 ------
-* Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation. *2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)*. [[paper](https://ieeexplore.ieee.org/abstract/document/10105781)]
+* <font size=3 face='Optima'> Yunda Shi, Jianming Hu and Li Li. PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation. </font>
+_<font size=3 face='Optima'> 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023) </font>_.
+[[<font size=3 face='Optima'> paper </font>](https://ieeexplore.ieee.org/abstract/document/10105781)]
 
 * Yunda Shi, Jianming Hu and Yi Zhang. Mask RFCT: Recursive Fully Convolutional Tracker for Video Instance Segmentation. *2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023)*. [[paper](https://ieeexplore.ieee.org/abstract/document/10105756)]
 
