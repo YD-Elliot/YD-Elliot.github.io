@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "YUNDA SHI"
@@ -8,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 **👨‍🎓 About me**
 ------
