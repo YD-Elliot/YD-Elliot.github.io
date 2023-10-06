@@ -13,7 +13,7 @@ redirect_from:
 ------
 <font size=3 face='Optima'> 
 Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li and Jianming Hu. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST). </font> 
-\
+
 <font size=3 face='Optima'> 
 My research interest broadly lies in
 </font>
@@ -74,7 +74,7 @@ My research interest broadly lies in
 
 **🖥️ Collaborations**
 ------
-* 2021.12 - 2022.03, MEGVII
+* <font size=3 face='Optima'> 2021.12 - 2022.03: MEGVII
 
 
 
