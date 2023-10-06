@@ -36,7 +36,7 @@ Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information fro
 
 **<font size=4 face='Optima'> Patents </font>**
 
-* <font size=3 face='Optima'> Jianming Hu, </font> **<font size=3 face='Optima'> Yunda Shi </font>** <font size=3 face='Optima'> , Danya Yao, Li Li. CN115984304A[P]. 2023-04-18. </font>
+* <font size=3 face='Optima'> Jianming Hu, </font> **<font size=3 face='Optima'> Yunda Shi </font>** <font size=3 face='Optima'> , Danya Yao, Li Li. An instance segmentation method, device, and storage medium: China, CN115984304A[P]. 2023-04-18. </font>
 
 
 
