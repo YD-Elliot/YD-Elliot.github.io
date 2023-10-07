@@ -86,8 +86,8 @@ redirect_from:
 **🔋 Others**
 ------
 ### <font face='Optima'> Positions </font>
-* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Masters of Grade 20, Department of Automation, Tsinghua University, Beijing, China.  </font>
-* <font size=3 face='Optima'> 2020.08 - 2021.07: President and Manager of SIGS Badminton Association, Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Grade 20 Masters of Automation Department, Tsinghua University, Beijing, China. </font>
+* <font size=3 face='Optima'> 2020.08 - 2021.07: President and Manager of Tsinghua SIGS Badminton Association, Beijing, China.  </font>
 * <font size=3 face='Optima'> 2021.12 - 2022.05: Volunteer to the 110th Anniversary of Tsinghua University, Beijing, China.  </font>
 * <font size=3 face='Optima'> 2020.09 - 2020.11: Volunteer to the School Opening Ceremony, Tsinghua University, Shenzhen, China.  </font>
 * <font size=3 face='Optima'> 2016.06 - 2018.07: Captain and Manager of Badminton Team, ECUST, Shanghai, China. </font>
@@ -99,9 +99,9 @@ redirect_from:
 * <font size=3 face='Optima'> [2020.12] The Second Place of SIGS Badminton Group Competition, Tsinghua University. </font>
 * <font size=3 face='Optima'> [2017.12] Outstanding Athlete of College Badminton Championship of Shanghai. </font>
 * <font size=3 face='Optima'> [2017.12] The Fourth Place of College Badminton Championship of Shanghai. </font>
-* <font size=3 face='Optima'> [2017.6] Champion of ECUST College Badminton Champion. </font>
-* <font size=3 face='Optima'> [2016.6] Champion of ECUST College Badminton Champion. </font>
-* <font size=3 face='Optima'> [2016.6] Champion of ECUST Badminton Championship. </font>
+* <font size=3 face='Optima'> [2017.06] Gold Medalist of ECUST College Badminton Championship. </font>
+* <font size=3 face='Optima'> [2016.06] Gold Medalist of ECUST College Badminton Championship. </font>
+* <font size=3 face='Optima'> [2016.06] Gold Medalist of ECUST Badminton Championship. </font>
 
 
 
