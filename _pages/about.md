@@ -66,6 +66,7 @@ redirect_from:
 * <font size=3 face='Optima'> [2021.10] Tsinghua SIGS Outstanding Student Cadres. </font>
 * <font size=3 face='Optima'> [2021.10] Tsinghua SIGS Outstanding Individual on Association Work. </font>
 * <font size=3 face='Optima'> [2021.12] Excellence Award of Tsinghua "Kunshan Cup" Entrepreneurship Competition.  </font>
+* <font size=3 face='Optima'> [2020.05] TOP2 in Comprehensive Score of Tsinghua Postgraduate Qualification Examination.  </font>
 * <font size=3 face='Optima'> [2017.07] Second Prize of the Intelligent Transportation Group of the East China Region of the 2017 National College Student Intelligent Interconnection Innovation Competition.  </font>
 * <font size=3 face='Optima'> [2017.07] Third Prize of Undergraduate Group of the National Finals of the 13th "Bo Chuang Cup" National College Student Embedded Design Competition.  </font>
 * <font size=3 face='Optima'> [2016.09] Third Prize of the 10th Energy Conservation and Emission Reduction Social Practice and Technology Competition, ECUST.  </font>
