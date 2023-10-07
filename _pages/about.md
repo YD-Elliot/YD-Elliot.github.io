@@ -32,7 +32,6 @@ redirect_from:
 
 **📝 Publications**
 ------
-
 ### <font face='Optima'> Conference Proceeding </font>
 * **<font size=3 face='Optima'> Yunda Shi </font>** <font size=3 face='Optima'> , Jianming Hu and Li Li. </font>
 [<font size=3 face='Optima'> PENet: Pre-Enhanced Network for Object Detection and Instance Segmentation.</font>](https://ieeexplore.ieee.org/abstract/document/10105781) _<font size=3 face='Optima'> 2023 International Conference on Neural Networks, Information and Communication Engineering (NNICE 2023) </font>_.
@@ -59,14 +58,18 @@ redirect_from:
 
 
 
-**🎖️ Honors and Awards**
+**🎖️ Honors **
 ------
 * <font size=3 face='Optima'> [2023] Excellent Graduated Athlete of Department of Automation, Tsinghua University. </font>
 * <font size=3 face='Optima'> [2022] Tsinghua SIGS Comprehensive Excellent Scholarship. </font>
 * <font size=3 face='Optima'> [2021] Tsinghua Comprehensive Excellent Scholarship. </font>
 * <font size=3 face='Optima'> [2021] Tsinghua SIGS Outstanding Student Cadres. </font>
 * <font size=3 face='Optima'> [2021] Tsinghua SIGS Outstanding Individual on Association Work. </font>
-* <font size=3 face='Optima'> [2021] Excellence Award of Tsinghua Kunshan Cup Entrepreneurship Competition.  </font>
+* <font size=3 face='Optima'> [2021] Excellence Award of Tsinghua "Kunshan Cup" Entrepreneurship Competition.  </font>
+* <font size=3 face='Optima'> [2017] Second Prize of the Intelligent Transportation Group of the East China Region of the 2017 National College Student Intelligent Interconnection Innovation Competition.  </font>
+* <font size=3 face='Optima'> [2017] Third Prize of Undergraduate Group of the National Finals of the 13th "Bo Chuang Cup" National College Student Embedded Design Competition.  </font>
+* <font size=3 face='Optima'> [2016] Third Prize of the 10th Energy Conservation and Emission Reduction Social Practice and Technology Competition, ECUST.  </font>
+
 
 
 
@@ -82,8 +85,23 @@ redirect_from:
 
 **🔋 Others**
 ------
-* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Students' Group of Grade 20, Department of Automation, Tsinghua University, Beijing, China.  </font>
-* <font size=3 face='Optima'> 2020.08 - 2021.07: President of SIGS Badminton Association, Tsinghua University, Beijing, China.  </font>
+### <font face='Optima'> Positions </font>
+* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Masters of Grade 20, Department of Automation, Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2020.08 - 2021.07: President and Manager of SIGS Badminton Association, Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2021.12 - 2022.05: Volunteer to the 110th Anniversary of Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2020.09 - 2020.11: Volunteer to the School Opening Ceremony, Tsinghua University, Shenzhen, China.  </font>
+* <font size=3 face='Optima'> 2016.06 - 2018.07: Captain and Manager of Badminton Team, ECUST, Shanghai, China. </font>
+* <font size=3 face='Optima'> 2016.04 - 2016.10: President of S&T Innovation Centre, ECUST, Shanghai, China. </font>
+
+### <font face='Optima'> Awards </font>
+* <font size=3 face='Optima'> [2022.04] Bronze Medalist of Group A of Tsinghua "John's Cup" Badminton Competition. </font>
+* <font size=3 face='Optima'> [2021.04] Champion of Group B of Tsinghua "John's Cup" Badminton Competition. </font>
+* <font size=3 face='Optima'> [2020.12] The Second Place of SIGS Badminton Group Competition, Tsinghua University. </font>
+* <font size=3 face='Optima'> [2017.12] Outstanding Athlete of College Badminton Championship of Shanghai. </font>
+* <font size=3 face='Optima'> [2017.12] The Fourth Place of College Badminton Championship of Shanghai. </font>
+* <font size=3 face='Optima'> [2017.6] Champion of ECUST College Badminton Champion. </font>
+* <font size=3 face='Optima'> [2016.6] Champion of ECUST College Badminton Champion. </font>
+* <font size=3 face='Optima'> [2016.6] Champion of ECUST Badminton Championship. </font>
 
 
 
