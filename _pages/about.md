@@ -86,7 +86,7 @@ redirect_from:
 **🔋 Others**
 ------
 ### <font face='Optima'> Positions </font>
-* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Grade 20 Masters of Automation Department, Tsinghua University, Beijing, China. </font>
+* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Grade 20 Masters of Dept. Automation, Tsinghua University, Beijing, China. </font>
 * <font size=3 face='Optima'> 2020.08 - 2021.07: President and Manager of Tsinghua SIGS Badminton Association, Beijing, China.  </font>
 * <font size=3 face='Optima'> 2021.12 - 2022.05: Volunteer to the 110th Anniversary of Tsinghua University, Beijing, China.  </font>
 * <font size=3 face='Optima'> 2020.09 - 2020.11: Volunteer to the School Opening Ceremony, Tsinghua University, Shenzhen, China.  </font>
