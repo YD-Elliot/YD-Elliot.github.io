@@ -11,9 +11,7 @@ redirect_from:
 
 **👨‍🎓 About me**
 ------
-<font size=3 face='Optima'> Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li and Jianming Hu. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST). </font>
-<br>
-
+<font size=3 face='Optima'> Hi！It is Yunda SHI, obtained the Master's Degree of Electronic Information from Department of Automation, Tsinghua University (THU), advised by Prof. Li Li and Jianming Hu. I major in Computer Vision and Deep Learning, specifically Instance Segmentation and Object Detection for RGB images and videos. Additionally, I worked as a research member at Intelligent Transportation Lab, Tsinghua University. I got my Bachelor's Degree on July 2019 from Department of Automation, East China University of Science and Technology (ECUST). </font> <br>
 <font size=3 face='Optima'> My research interest broadly lies in </font>
 
 
@@ -72,11 +70,13 @@ redirect_from:
 
 
 
-
-
 **🖥️ Collaborations**
 ------
-* <font size=3 face='Optima'> 2021.12 - 2022.03: MEGVII  </font>
+* <font size=3 face='Optima'> 2021.03 - 2023.07: Tsinghua Intelligent Transportation Laboratory, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2021.12 - 2022.04: QY Laboratory, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2021.12 - 2022.03: Megvii CO., LTD, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2020.10 - 2021.09: HIK CREATE CO., LTD, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2016.12 - 2017.07: ECUST Information Technology Experimental Teaching Center, Shanghai, China.  </font>
 
 
 
