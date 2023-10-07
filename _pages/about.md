@@ -58,7 +58,7 @@ redirect_from:
 
 
 
-**🎖️ Honors **
+**🎖️ Honors**
 ------
 * <font size=3 face='Optima'> [2023.06] Excellent Graduated Athlete of Department of Automation, Tsinghua University. </font>
 * <font size=3 face='Optima'> [2022.10] Tsinghua SIGS Comprehensive Excellent Scholarship. </font>
