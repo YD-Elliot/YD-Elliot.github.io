@@ -72,18 +72,18 @@ redirect_from:
 
 **🖥️ Collaborations**
 ------
-* <font size=3 face='Optima'> 2021.03 - 2023.07: Tsinghua Intelligent Transportation Laboratory, Beijing, China.  </font>
-* <font size=3 face='Optima'> 2021.12 - 2022.04: QY Laboratory, Beijing, China.  </font>
-* <font size=3 face='Optima'> 2021.12 - 2022.03: Megvii CO., LTD, Beijing, China.  </font>
-* <font size=3 face='Optima'> 2020.10 - 2021.09: HIK CREATE CO., LTD, Beijing, China.  </font>
-* <font size=3 face='Optima'> 2016.12 - 2017.07: ECUST Information Technology Experimental Teaching Center, Shanghai, China.  </font>
+* <font size=3 face='Optima'> 2021.03 - 2023.07: Intelligent Transportation Laboratory, Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2021.12 - 2022.04: QY Laboratory, Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2021.12 - 2022.03: Megvii CO.,LTD, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2020.10 - 2021.09: HIK CREATE CO.,LTD, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2016.12 - 2017.07: Information Technology Experimental Teaching Center, ECUST, Shanghai, China.  </font>
 
 
 
 **🔋 Others**
 ------
-Community Involvement
-
+* <font size=3 face='Optima'> 2020.08 - 2023.07: Head of Students' Group of Grade 20, Department of Automation, Tsinghua University, Beijing, China.  </font>
+* <font size=3 face='Optima'> 2020.08 - 2021.07: President of SIGS Badminton Association, Tsinghua University, Beijing, China.  </font>
 
 
 
