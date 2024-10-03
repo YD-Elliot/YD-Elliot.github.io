@@ -52,7 +52,7 @@ redirect_from:
 ------
 * <font size=3 face='Optima'> 2020.08 - 2023.07: Master, Department of Automation, Tsingahua University (THU), Beijing, China. </font>
 * <font size=3 face='Optima'> 2015.08 - 2019.07: Undergraduate, Department of Automation, East China University of Science and Technology (ECUST), Shanghai, China. </font>
-* <font size=3 face='Optima'> 2012.08 - 2015.07: No.2 High School of Fushun, Liaoning, China. </font>
+* <font size=3 face='Optima'> 2012.08 - 2015.07: The Best High School of Fushun, Liaoning, China. </font>
 
 
 
